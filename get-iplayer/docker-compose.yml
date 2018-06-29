@@ -1,0 +1,10 @@
+version: "2"
+volumes:
+    archive:
+
+services:
+    fetch:
+        build: .
+        volumes:
+          - archive:/data
+        command: ["--get", "doctor"]
