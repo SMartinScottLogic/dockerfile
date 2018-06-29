@@ -1,2 +1,2 @@
 Useful resources:
-* [https://github.com/haiwen/seafile-docker](Official)
+* [Official](https://github.com/haiwen/seafile-docker)
